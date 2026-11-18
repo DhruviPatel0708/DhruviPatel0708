@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👩‍💻 About Me<br><br>Hi! I'm Dhruvi Patel, an Information Technology student who enjoys exploring technology, learning new concepts, and turning ideas into practical projects.<br><br>I'm particularly interested in Artificial Intelligence and Machine Learning, and I enjoy understanding how data and algorithms can solve real-world problems.<br><br>- 🔭 Currently working on AI/ML projects and exploring research opportunities.<br>- 🤝 Interested in collaborating on meaningful projects, especially in AI/ML and software development.<br>- 🌱 Currently learning Machine Learning, Deep Learning, Data Science, and modern development technologies.<br>- 💡 Exploring how technology can address practical challenges in healthcare, science, and everyday life.<br>- 💬 Happy to discuss Python, Machine Learning, project development, and research ideas.<br>- 🎯 My goal is to keep learning, experiment with new ideas, and build things that create real value.<br><br>I may not know everything yet, but I'm always curious, willing to learn, and ready to explore something new.
 
 
